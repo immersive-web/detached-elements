@@ -1,0 +1,9 @@
+
+{
+    "name": "detached-elements",
+    "description": "WebXR/Detached Elements - Level 1",
+    "version": "0.0.1",
+    "scripts": {
+      "build": "make"
+    }
+  }
